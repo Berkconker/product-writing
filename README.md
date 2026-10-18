@@ -1,6 +1,6 @@
 # Product writing
 
-Product specs, one-pagers and case studies by **Berkconker**.
+Product specs, one-pagers and case studies by **Ahmet Berk Conker**.
 
 | Document | Format |
 |---|---|
